@@ -1,0 +1,30 @@
+.footer-content{
+    position: relative;
+    background-image: url('../images/svg/footer.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    padding: 2rem;
+    
+}
+.footer_logo{
+    position: absolute;
+    bottom: 25px; 
+    right: 25px;  
+    width: 380px;
+    height: 70px;
+    
+}
+.footer-list{
+    list-style-type:  none;
+    color: white;
+
+}
+.footer-content img{
+    margin-right: 8px;
+    vertical-align: middle
+    
+}
+.footer-content li{
+    margin: 15px 0;
+}
